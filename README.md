@@ -1,4 +1,4 @@
-Use Scrapy framework to crawl daily top 5 twitter hashtags.
-Use Hadoop mapreduce to do sentiment analysis for tweets in those hashtag pages.
-Convert result into readable JSON file.
-Build visualization for result exhibition.
+Used Scrapy framework to crawl the tweets with daily top 5 twitter hashtags.
+Used Hadoop mapreduce to do sentiment analysis for those hashtags through the tweets.
+Converted result into readable JSON file.
+Built visualization for result exhibition.
